@@ -21,4 +21,4 @@ jobs:
           container_registry: ghcr.io/${{ github.actor }}/jkhan-app
           # buildPlanSource: custom-build-plan
           project: workshop01
-          space: jkhan-space
+          space: jkhan-playground
